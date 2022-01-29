@@ -2,4 +2,4 @@
 
 # .6 Themes (08:42)
 
-#4.4 Route States (14:55) 시작
+#4.9 React Query part One (13:08) 시작
