@@ -2,4 +2,5 @@
 
 # .6 Themes (08:42)
 
-#4.9 React Query part One (13:08) 시작
+#4.10 React Query part Two (15:03) 11분
+ㄴ
