@@ -2,5 +2,6 @@
 
 # .6 Themes (08:42)
 
-#4.10 React Query part Two (15:03) 11분
-ㄴ
+#5.4 Recap (05:35) recoil로 테마변경 까지 완료
+
+#5.5 To Do Setup 전
